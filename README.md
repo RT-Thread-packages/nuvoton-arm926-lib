@@ -1,4 +1,4 @@
-# nuvoton-nuc980-lib
+# nuvoton-arm926-lib
 
 ## Migration Notice
 
